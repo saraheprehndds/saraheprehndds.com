@@ -1,0 +1,48 @@
+baseURL = "http://saraheprehndds.com"
+languageCode = "en-us"
+title = "Sarah E. Prehn, DDS"
+theme = "hugo-identity-theme"
+
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+
+[params]
+  # icons
+  favicon_ico = "favicon.ico"
+  favicon_ico_sizes = "16x16 32x32"
+
+  [params.personal]
+    name = "Sarah E. Prehn, DDS"
+    avatar = "sarah.jpg"
+    position = "Orthodontic resident"
+    livesIn = "[Bronx, NY](#some-maps-url)"
+    # scope = [
+    #   "Orthodontic resident"
+    # ]
+    biography = """Dr. Prehn is an orthodontic resident at St. Barnabas Hospital in the Bronx. She will be graduating in June, 2019, and aims to work in private practice.
+    
+    In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
+
+  [params.contact]
+    email = "saraheprehndds@gmail.com"
+    enable = true
+    title = "Contact me"
+    namePlaceholder = "Name"
+    emailPlaceholder = "Email"
+    messagePlaceholder = "Message"
+    buttonText = "Send"
+    success = "Thank you for contacting us. We will respond ASAP."
+    error = "Message could not be sent. Please contact us at saraheprehndds@gmail.com"
+
+  [params.footer]
+    copyright = "Sarah E. Prehn, 2018"
+
+  [params.license]
+    link = "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+    name = "CC-BY-SA-4.0"
+
+  [[params.credits]]
+    # Title is used as URL text
+    title = "HTML5UP"
+    # Text will be used to explain the credit
+    text = "Design by"
+    link = "https://html5up.net"
