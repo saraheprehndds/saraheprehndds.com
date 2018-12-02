@@ -19,7 +19,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     #   "Orthodontic resident"
     # ]
     biography = """Dr. Prehn is an orthodontic resident at St. Barnabas Hospital in the Bronx. She will be graduating in June, 2019, and aims to work in private practice.
-    
+
     In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
 
   [params.contact]
@@ -32,6 +32,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     buttonText = "Send"
     success = "Thank you for contacting us. We will respond ASAP."
     error = "Message could not be sent. Please contact us at saraheprehndds@gmail.com"
+
+  [[params.social]]
+    title = "CV"
+    icon = "fa-file-text"
+    link = "./pdfs/prehn_cv.pdf"
+    target = "_blank"
 
   [params.footer]
     copyright = "Sarah E. Prehn, 2018"
