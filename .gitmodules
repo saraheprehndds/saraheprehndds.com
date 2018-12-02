@@ -1,3 +1,7 @@
 [submodule "themes/hugo-identity-theme"]
 	path = themes/hugo-identity-theme
 	url = https://github.com/aerohub/hugo-identity-theme
+[submodule "public"]
+	path = public
+	url = https://github.com/saraheprehndds/saraheprehndds.github.io
+	branch = master
