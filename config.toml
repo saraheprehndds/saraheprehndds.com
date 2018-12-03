@@ -18,9 +18,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # scope = [
     #   "Orthodontic resident"
     # ]
-    biography = """Dr. Prehn is an orthodontic resident at St. Barnabas Hospital in the Bronx. She will be graduating in June, 2019, and aims to work in private practice.
-
-    In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
+    biography = """Dr. Prehn is an orthodontic resident at St. Barnabas Hospital in the Bronx. She will be graduating in June, 2019, and aims to work in private practice.<br /><br />In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
 
   [params.contact]
     email = "saraheprehndds@gmail.com"
