@@ -14,11 +14,11 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "Sarah E. Prehn, DDS"
     avatar = "sarah.jpg"
     position = "Orthodontic resident"
-    livesIn = "[Bronx, NY](#some-maps-url)"
+    livesIn = "[Wynnewood, PA](#some-maps-url)"
     # scope = [
     #   "Orthodontic resident"
     # ]
-    biography = """Dr. Prehn is an orthodontic resident at St. Barnabas Hospital in the Bronx. She will be graduating in June, 2019, and aims to work in private practice.<br /><br />In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
+    biography = """Dr. Prehn is an orthodontic resident at St. Barnabas Hospital in the Bronx. Upon graduation, she will be moving to the Philadelphia area, where she will practice orthodontics.<br /><br />In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
 
   [params.contact]
     email = "saraheprehndds@gmail.com"
