@@ -18,7 +18,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # scope = [
     #   "Orthodontic resident"
     # ]
-    biography = """Dr. Prehn is an orthodontist working in private practice in the greater Philadelphia area. She recently completed an orthodontic residency at St. Barnabas Hospital in the Bronx.<br /><br />In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
+    biography = """Dr. Prehn is an orthodontist working in private practice in the greater Philadelphia area.<br /><br />In her free time, Dr. Prehn is an avid runner and enjoys playing and listening to great music."""
 
   [params.contact]
     email = "saraheprehndds@gmail.com"
